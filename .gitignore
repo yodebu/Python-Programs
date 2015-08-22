@@ -5,7 +5,9 @@ ehthumbs.db
 #Visual Studio Files
 *.pyproj
 *.suo
-/#Visual Studio Files
+*.sln
+*.user
+/@Visual Studio Files
 
 # Folder config file
 Desktop.ini

@@ -1,4 +1,4 @@
-
+﻿
 #Bird Language
 
 VOWELS = "aeiouy"
@@ -18,3 +18,5 @@ def translate(phrase):
         i+=1
     phrase = res
     return phrase
+
+print("GG");
